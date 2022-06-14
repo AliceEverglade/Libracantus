@@ -1,1 +1,1 @@
-also big cool, friends with [[Maya]] and Headmistress of [[Aether Academy]]
+also big cool, friends with [[Maya|maya, god of the universe]] and Headmistress of [[Aether Academy]]
