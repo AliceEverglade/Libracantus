@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "4d32e5a00f836d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "f468cc8483e1d046",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aether Academy.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f43f12077e0e551d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b5fd294fae8fbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ce1e6e4c1c7795",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b9219a2aee1b4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "314a138f70fa97f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "514491e2571ea0c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b378da06ba6a94fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aether Academy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f468cc8483e1d046",
+  "lastOpenFiles": [
+    "Aether Academy.md",
+    "Libracantus.md",
+    "Cool first File.md",
+    "I am very cool.md"
+  ]
+}
