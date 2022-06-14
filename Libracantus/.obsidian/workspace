@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f468cc8483e1d046",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Magic/-Magic.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "8456871a8c44d39c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Important Characters/Maya.md",
+            "file": "Important Characters/Alice Everglade.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/-Magic.md",
+                "file": "Important Characters/Alice Everglade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,14 +86,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f468cc8483e1d046",
+  "active": "8456871a8c44d39c",
   "lastOpenFiles": [
+    "Important Characters/Alice Everglade.md",
+    "Important Characters/Maya.md",
     "Magic/-Magic.md",
     "Locations/-Locations.md",
     "History/-History.md",
     "Important Characters/-Important Characters.md",
-    "Important Characters/Maya.md",
-    "Important Characters/Alice Everglade.md",
     "Cool first File.md",
     "Locations/Aether Academy.md",
     "Locations/Libracantus.md",
