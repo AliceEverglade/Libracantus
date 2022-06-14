@@ -1,0 +1,1 @@
+also big cool, friends with [[Maya]] and Headmistress of [[Aether Academy]]
