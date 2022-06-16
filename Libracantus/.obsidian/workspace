@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Important Characters/Alice Everglade.md",
+            "file": "Magic/Brainstorm.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Characters/Alice Everglade.md",
+                "file": "Magic/Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8456871a8c44d39c",
   "lastOpenFiles": [
+    "Magic/Brainstorm.md",
+    "Magic/-Magic.md",
     "Important Characters/Alice Everglade.md",
     "Important Characters/Maya.md",
-    "Magic/-Magic.md",
     "Locations/-Locations.md",
     "History/-History.md",
     "Important Characters/-Important Characters.md",
     "Cool first File.md",
     "Locations/Aether Academy.md",
-    "Locations/Libracantus.md",
-    "I am very cool.md"
+    "Locations/Libracantus.md"
   ]
 }
